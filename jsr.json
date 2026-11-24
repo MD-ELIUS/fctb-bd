@@ -10,8 +10,7 @@
     "./json/categories": "./data/json/categories.json",
     "./json/cooking-methods": "./data/json/cooking-methods.json",
     "./json/retention-factors": "./data/json/retention-factors.json",
-    "./json/category-rf-map": "./data/json/category-rf-map.json",
-    "./sqlite": "./data/fctb.db"
+    "./json/category-rf-map": "./data/json/category-rf-map.json"
   },
   "publish": {
     "include": [
