@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "code": "01",
+    "name_en": "Boiled",
+    "name_bn": "সিদ্ধ / রান্না"
+  },
+  {
+    "id": 2,
+    "code": "02",
+    "name_en": "Fried",
+    "name_bn": "ভাজা"
+  },
+  {
+    "id": 3,
+    "code": "03",
+    "name_en": "Roasted",
+    "name_bn": "রোস্টেড / পোড়া"
+  },
+  {
+    "id": 4,
+    "code": "04",
+    "name_en": "Toasted",
+    "name_bn": "টোস্টেড / সেঁকা"
+  },
+  {
+    "id": 5,
+    "code": "05",
+    "name_en": "Raw",
+    "name_bn": "কাঁচা"
+  },
+  {
+    "id": 6,
+    "code": "06",
+    "name_en": "Others",
+    "name_bn": "অন্যান্য"
+  }
+]

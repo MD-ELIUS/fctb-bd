@@ -1,0 +1,102 @@
+[
+  {
+    "category_code": "01",
+    "cooking_method_id": 1,
+    "rf_id": 2
+  },
+  {
+    "category_code": "02",
+    "cooking_method_id": 1,
+    "rf_id": 4
+  },
+  {
+    "category_code": "03",
+    "cooking_method_id": 1,
+    "rf_id": 5
+  },
+  {
+    "category_code": "04",
+    "cooking_method_id": 1,
+    "rf_id": 10
+  },
+  {
+    "category_code": "05",
+    "cooking_method_id": 1,
+    "rf_id": 11
+  },
+  {
+    "category_code": "09",
+    "cooking_method_id": 1,
+    "rf_id": 12
+  },
+  {
+    "category_code": "10",
+    "cooking_method_id": 1,
+    "rf_id": 14
+  },
+  {
+    "category_code": "11",
+    "cooking_method_id": 1,
+    "rf_id": 15
+  },
+  {
+    "category_code": "12",
+    "cooking_method_id": 1,
+    "rf_id": 17
+  },
+  {
+    "category_code": "03",
+    "cooking_method_id": 2,
+    "rf_id": 6
+  },
+  {
+    "category_code": "04",
+    "cooking_method_id": 2,
+    "rf_id": 6
+  },
+  {
+    "category_code": "05",
+    "cooking_method_id": 2,
+    "rf_id": 9
+  },
+  {
+    "category_code": "06",
+    "cooking_method_id": 2,
+    "rf_id": 7
+  },
+  {
+    "category_code": "09",
+    "cooking_method_id": 2,
+    "rf_id": 13
+  },
+  {
+    "category_code": "11",
+    "cooking_method_id": 2,
+    "rf_id": 16
+  },
+  {
+    "category_code": "13",
+    "cooking_method_id": 2,
+    "rf_id": 19
+  },
+  {
+    "category_code": "01",
+    "cooking_method_id": 3,
+    "rf_id": 3
+  },
+  {
+    "category_code": "13",
+    "cooking_method_id": 3,
+    "rf_id": 18
+  },
+  {
+    "category_code": "01",
+    "cooking_method_id": 4,
+    "rf_id": 3
+  },
+  {
+    "category_code": "13",
+    "cooking_method_id": 4,
+    "rf_id": 18
+  }
+]

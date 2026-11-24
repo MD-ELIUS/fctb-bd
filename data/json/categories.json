@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "code": "01",
+    "name": "Cereals and their products",
+    "name_bn": "খাদ্যশস্য ও শস্যজাত দ্রব্য"
+  },
+  {
+    "id": 2,
+    "code": "02",
+    "name": "Pulses, legumes and their products",
+    "name_bn": "ডাল, শিম জাতীয় বীজ ও এ থেকে তৈরি দ্রব্য"
+  },
+  {
+    "id": 3,
+    "code": "03",
+    "name": "Vegetables and their products",
+    "name_bn": "শাকসবজি ও সবজিজাত দ্রব্য"
+  },
+  {
+    "id": 4,
+    "code": "04",
+    "name": "Leafy vegetables",
+    "name_bn": "শাক"
+  },
+  {
+    "id": 5,
+    "code": "05",
+    "name": "Starchy roots, tubers and their products",
+    "name_bn": "শ্বেতসারযুক্ত মূল, কন্দ ও এ থেকে তৈরি দ্রব্য"
+  },
+  {
+    "id": 6,
+    "code": "06",
+    "name": "Nuts, seeds and their products",
+    "name_bn": "বাদাম, বীজ ও এ থেকে তৈরি দ্রব্য"
+  },
+  {
+    "id": 7,
+    "code": "07",
+    "name": "Spices, condiments and herbs",
+    "name_bn": "মসলা, ভেষজ ও সুগন্ধি দ্রব্য"
+  },
+  {
+    "id": 8,
+    "code": "08",
+    "name": "Fruits",
+    "name_bn": "ফলমূল"
+  },
+  {
+    "id": 9,
+    "code": "09",
+    "name": "Fish, shellfish and their products",
+    "name_bn": "মাছ, চিংড়ি/শামুক জাতীয় প্রাণী ও মৎস্যজাত দ্রব্য"
+  },
+  {
+    "id": 10,
+    "code": "10",
+    "name": "Meat, poultry and their products",
+    "name_bn": "মাংস, হাঁস-মুরগি ও মাংসজাত দ্রব্য"
+  },
+  {
+    "id": 11,
+    "code": "11",
+    "name": "Eggs and their products",
+    "name_bn": "ডিম ও ডিমজাত দ্রব্য"
+  },
+  {
+    "id": 12,
+    "code": "12",
+    "name": "Milk and its product",
+    "name_bn": "দুধ ও দুগ্ধজাত দ্রব্য"
+  },
+  {
+    "id": 13,
+    "code": "13",
+    "name": "Fat and oils",
+    "name_bn": "তেল ও চর্বি"
+  },
+  {
+    "id": 14,
+    "code": "14",
+    "name": "Beverages",
+    "name_bn": "পানীয়"
+  },
+  {
+    "id": 15,
+    "code": "15",
+    "name": "Miscellaneous",
+    "name_bn": "বিবিধ"
+  }
+]

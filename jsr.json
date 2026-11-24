@@ -1,0 +1,26 @@
+{
+  "name": "@fctb/bd",
+  "version": "1.0.0",
+  "license": "MIT",
+  "exports": {
+    ".": "./src/index.ts",
+    "./csv": "./src/csv.ts",
+    "./types": "./src/types.ts",
+    "./json/foods": "./data/json/foods.json",
+    "./json/categories": "./data/json/categories.json",
+    "./json/cooking-methods": "./data/json/cooking-methods.json",
+    "./json/retention-factors": "./data/json/retention-factors.json",
+    "./json/category-rf-map": "./data/json/category-rf-map.json",
+    "./sqlite": "./data/fctb.db"
+  },
+  "publish": {
+    "include": [
+      "src/**/*.ts",
+      "data/json/*.json",
+      "data/csv/*.csv",
+      "data/fctb.db",
+      "README.md",
+      "jsr.json"
+    ]
+  }
+}

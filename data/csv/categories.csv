@@ -1,0 +1,16 @@
+id,code,name,name_bn
+1,01,Cereals and their products,খাদ্যশস্য ও শস্যজাত দ্রব্য
+2,02,"Pulses, legumes and their products","ডাল, শিম জাতীয় বীজ ও এ থেকে তৈরি দ্রব্য"
+3,03,Vegetables and their products,শাকসবজি ও সবজিজাত দ্রব্য
+4,04,Leafy vegetables,শাক
+5,05,"Starchy roots, tubers and their products","শ্বেতসারযুক্ত মূল, কন্দ ও এ থেকে তৈরি দ্রব্য"
+6,06,"Nuts, seeds and their products","বাদাম, বীজ ও এ থেকে তৈরি দ্রব্য"
+7,07,"Spices, condiments and herbs","মসলা, ভেষজ ও সুগন্ধি দ্রব্য"
+8,08,Fruits,ফলমূল
+9,09,"Fish, shellfish and their products","মাছ, চিংড়ি/শামুক জাতীয় প্রাণী ও মৎস্যজাত দ্রব্য"
+10,10,"Meat, poultry and their products","মাংস, হাঁস-মুরগি ও মাংসজাত দ্রব্য"
+11,11,Eggs and their products,ডিম ও ডিমজাত দ্রব্য
+12,12,Milk and its product,দুধ ও দুগ্ধজাত দ্রব্য
+13,13,Fat and oils,তেল ও চর্বি
+14,14,Beverages,পানীয়
+15,15,Miscellaneous,বিবিধ

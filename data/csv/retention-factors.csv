@@ -1,0 +1,20 @@
+rule_key,label_en,vita_rae,vitd,vite,thia,ribf,niaeq,vitb6a,fol,ascl,ca,fe,mg,p,k,na,zn,cu,id,code
+grain_whole_boiled,"Rice, or other grain, whole, boiled",0.9,1,1,0.5,0.75,0.75,0.5,0.7,0.7,1,1,1,0.95,0.8,0.8,0.95,1,1,01
+grain_polished_boiled,"Rice, or other grain, polished, boiled",0.9,1,1,0.5,0.5,0.75,0.5,0.7,0.7,1,0.95,1,0.95,0.55,0.6,0.95,0.95,2,02
+flour_baked_roasted,"Flour or starch, baked or roasted",0.9,1,1,0.75,0.95,0.95,0.9,0.5,0.7,1,1,1,1,1,1,1,1,3,03
+pulse_boiled,"Pulse, dish, boiled",1,1,0.9,0.65,0.75,0.65,0.7,0.5,0.6,0.85,0.85,0.85,0.9,0.75,0.75,0.9,0.7,4,04
+vegetable_boiled,"Vegetable or vegetable product, boiled",0.96,1,0.97,0.7,0.76,0.69,0.7,0.54,0.61,0.92,0.84,0.78,0.91,0.68,0.75,0.85,0.85,5,05
+veg_dish_fried,Vegetable dish cooked with fat or oil (fried),0.93,1,0.98,0.9,0.95,0.95,0.9,0.7,0.82,1,1,1,1,0.98,1,1,1,6,06
+stem_fruit_seed_fried,"Stem, flower, fruit, corn, seed, cooked with fat or oil (fried)",0.9,1,1,0.9,0.95,0.95,0.9,0.7,0.8,1,1,1,1,0.95,1,1,1,7,07
+root_bulb_boiled,"Root tuber and bulb vegetables, boiled",0.9,1,1,0.7,0.7,0.7,0.7,0.5,0.4,0.95,0.75,0.6,0.9,0.45,0.55,0.75,0.95,8,08
+root_bulb_fried,"Root, tuber and bulb vegetables, cooked with fat or oil (fried)",0.9,1,1,0.9,0.95,0.95,0.9,0.7,0.85,1,1,1,1,1,1,1,1,9,09
+leafy_boiled,"Leafy vegetables, boiled",0.9,1,1,0.65,0.65,0.65,0.65,0.5,0.4,0.95,0.75,0.6,0.9,0.5,0.75,0.75,0.95,10,10
+starchy_root_boiled,"Starchy root or potato, boiled",0.95,1,1,0.78,0.88,0.75,0.75,0.63,0.7,0.95,0.93,0.9,0.93,0.8,0.8,0.9,0.9,11,11
+fish_moist,"Low fat fish, boiled, steamed, stewed",0.9,0.9,1,0.75,0.7,0.7,0.7,0.7,0.8,1,0.8,0.85,0.85,0.75,0.85,1,0.9,12,12
+fish_fried,"Low fat fish, cooked with fat or oil (fried)",0.9,0.9,1,0.8,0.9,0.9,0.8,0.8,0.8,1,0.85,0.9,0.9,0.85,0.85,1,0.95,13,13
+beef_boiled_steamed,"Beef, boiled or steamed",0.75,0.75,0.75,0.4,0.8,0.5,0.4,0.65,1,0.8,1,0.6,0.65,0.5,0.45,1,1,14,14
+egg_boiled,"Egg or egg product, boiled",0.95,0.95,1,0.8,0.8,0.8,0.8,0.8,0.8,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,15,15
+egg_fried,"Egg or egg product, cooked with fat or oil (fried)",0.95,0.95,0.95,0.83,0.83,0.95,0.9,0.7,0.8,1,1,1,1,1,1,1,1,16,16
+milk_moist,"Milk, milk products or milk substitute, cooked by moist heat",1,1,1,0.85,0.95,0.95,0.85,0.65,0.7,1,1,1,1,1,1,1,1,17,17
+fat_baked_roasted,"Fat or oil, baked or roasted",0.85,1,0.75,1,1,1,1,1,1,1,1,1,1,1,1,1,1,18,18
+fat_fried,"Fat or oil, cooked with fat or oil (fried)",0.5,1,0.2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,19,19

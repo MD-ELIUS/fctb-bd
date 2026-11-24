@@ -1,0 +1,65 @@
+{
+  "name": "fctb-bd",
+  "version": "1.0.0",
+  "description": "Offline Food Composition Table for Bangladesh (FCTB) dataset with zero-runtime-dependency TypeScript helpers, JSON, CSV, and SQLite exports.",
+  "license": "MIT",
+  "author": "MD. ELIUS",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MD-ELIUS/fctb-bd.git"
+  },
+  "homepage": "https://github.com/MD-ELIUS/fctb-bd#readme",
+  "bugs": {
+    "url": "https://github.com/MD-ELIUS/fctb-bd/issues"
+  },
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    },
+    "./csv": {
+      "types": "./dist/csv.d.ts",
+      "import": "./dist/csv.js"
+    },
+    "./json/foods": "./data/json/foods.json",
+    "./json/categories": "./data/json/categories.json",
+    "./json/cooking-methods": "./data/json/cooking-methods.json",
+    "./json/retention-factors": "./data/json/retention-factors.json",
+    "./json/category-rf-map": "./data/json/category-rf-map.json",
+    "./sqlite": "./data/fctb.db"
+  },
+  "files": [
+    "dist",
+    "data/json",
+    "data/csv",
+    "data/fctb.db",
+    "README.md"
+  ],
+  "scripts": {
+    "export-data": "node scripts/export-data.mjs",
+    "build": "tsup src/index.ts src/csv.ts --format esm --dts --clean",
+    "typecheck": "tsc --noEmit",
+    "prepublishOnly": "npm run export-data && npm run build"
+  },
+  "keywords": [
+    "fctb",
+    "bangladesh",
+    "food-composition",
+    "nutrition",
+    "infs",
+    "fao",
+    "infoods",
+    "sqlite",
+    "json",
+    "csv"
+  ],
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "better-sqlite3": "^13.2.0",
+    "tsup": "^8.3.5",
+    "typescript": "^5.7.2"
+  }
+}
