@@ -81,6 +81,33 @@ const require = createRequire(import.meta.url);
 const dbPath = require.resolve("fctb-bd/sqlite");
 ```
 
+## CDN Usage (jsDelivr)
+
+You can fetch the raw JSON, CSV, or SQLite files directly from jsDelivr without installing the package (useful for Python, Flutter, Kotlin, or static websites):
+
+### JSON
+| Table | CDN URL |
+| :--- | :--- |
+| **Foods (381)** | `https://cdn.jsdelivr.net/npm/fctb-bd@1/data/json/foods.json` |
+| **Categories (15)** | `https://cdn.jsdelivr.net/npm/fctb-bd@1/data/json/categories.json` |
+| **Cooking Methods (6)** | `https://cdn.jsdelivr.net/npm/fctb-bd@1/data/json/cooking-methods.json` |
+| **Retention Factors (19)** | `https://cdn.jsdelivr.net/npm/fctb-bd@1/data/json/retention-factors.json` |
+| **Category RF Map (20)** | `https://cdn.jsdelivr.net/npm/fctb-bd@1/data/json/category-rf-map.json` |
+
+### CSV
+| Table | CDN URL |
+| :--- | :--- |
+| **Foods** | `https://cdn.jsdelivr.net/npm/fctb-bd@1/data/csv/foods.csv` |
+| **Categories** | `https://cdn.jsdelivr.net/npm/fctb-bd@1/data/csv/categories.csv` |
+| **Cooking Methods** | `https://cdn.jsdelivr.net/npm/fctb-bd@1/data/csv/cooking-methods.csv` |
+| **Retention Factors** | `https://cdn.jsdelivr.net/npm/fctb-bd@1/data/csv/retention-factors.csv` |
+| **Category RF Map** | `https://cdn.jsdelivr.net/npm/fctb-bd@1/data/csv/category-rf-map.csv` |
+
+### SQLite Database
+- **Full Database (`fctb.db`):** `https://cdn.jsdelivr.net/npm/fctb-bd@1/data/fctb.db`
+
+> **Tip:** Replace `@1` with a specific version (e.g., `@1.0.0`) to pin the exact dataset version in production.
+
 ## Attribution
 
 Data sourced from the **Food Composition Table for Bangladesh (FCTB)**, published by the **Institute of Nutrition and Food Science (INFS), University of Dhaka**, in collaboration with **FAO/INFOODS**.
